@@ -5,3 +5,5 @@
 All languages are available here: `garrysmod\data\jcourier\languages`
 
 After reviewing the language file, it will be addedto the script
+
+![alt text](https://i.imgur.com/Vtf1rVr.png "Editor")
