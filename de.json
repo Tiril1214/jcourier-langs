@@ -79,9 +79,7 @@
 	"plynohavetruck": "Du hast kein Kurierfahrzeug oder das Fahrzeug wurde entfernt.",
 	"couriertrucks_customize": "Anpassen",
 	"order_itemremoved": "Der Artikel wurde aus der Bestellliste entfernt",
-	
-
-"truck_notexists": "Der Lkw existiert nicht.",
+	"truck_notexists": "Der Lkw existiert nicht.",
 	"confirmWin": "Bestätigungsfenster",
 	"warehouse": "Lager",
 	"recipient_leftfromserver": "Einige Pakete wurden aufgrund der Trennung des Empfängers vom Server entfernt",
